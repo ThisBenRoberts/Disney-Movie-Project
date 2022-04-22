@@ -1,0 +1,445 @@
+,orig_index,DFL_title,tconst,titleType,primaryTitle,originalTitle,startYear,runtimeMinutes,genres,lower_title,averageRating,numVotes,_merge
+0,0,101 Dalmatians,tt0115433,movie,101 Dalmatians,101 Dalmatians,1996,103,"Adventure,Comedy,Crime",101 dalmatians,5.7,109712.0,both
+1,5,102 Dalmatians,tt0211181,movie,102 Dalmatians,102 Dalmatians,2000,100,"Adventure,Comedy,Family",102 dalmatians,4.8,37056.0,both
+2,10,"20,000 Leagues Under the Sea",tt0046672,movie,"20,000 Leagues Under the Sea","20,000 Leagues Under the Sea",1954,127,"Adventure,Drama,Family",20000 leagues under the sea,7.2,33109.0,both
+3,24,A Bug's Life,tt0120623,movie,A Bug's Life,A Bug's Life,1998,95,"Adventure,Animation,Comedy",a bugs life,7.2,284538.0,both
+4,74,A Christmas Carol,tt1067106,movie,A Christmas Carol,A Christmas Carol,2009,96,"Adventure,Animation,Comedy",a christmas carol,6.8,112582.0,both
+5,126,A Far Off Place,tt0106868,movie,A Far Off Place,A Far Off Place,1993,100,"Adventure,Drama,Family",a far off place,6.5,3556.0,both
+6,127,A Goofy Movie,tt0113198,movie,A Goofy Movie,A Goofy Movie,1995,78,"Adventure,Animation,Comedy",a goofy movie,6.9,52058.0,both
+7,135,A Kid In King Arthur's Court,tt0113538,movie,A Kid in King Arthur's Court,A Kid in King Arthur's Court,1995,89,"Adventure,Comedy,Family",a kid in king arthurs court,4.7,6159.0,both
+8,143,A Tiger Walks,tt0058657,movie,A Tiger Walks,A Tiger Walks,1964,91,"Drama,Family",a tiger walks,6.3,349.0,both
+9,147,A Wrinkle in Time,tt1620680,movie,A Wrinkle in Time,A Wrinkle in Time,2018,109,"Adventure,Family,Fantasy",a wrinkle in time,4.2,44220.0,both
+10,158,Adventures in Babysitting,tt0092513,movie,Adventures in Babysitting,Adventures in Babysitting,1987,102,"Adventure,Comedy,Crime",adventures in babysitting,6.9,42893.0,both
+11,187,African Cats,tt1223236,movie,African Cats,African Cats,2011,89,"Adventure,Documentary",african cats,7.5,6446.0,both
+12,190,Aladdin,tt0103639,movie,Aladdin,Aladdin,1992,90,"Adventure,Animation,Comedy",aladdin,8.1,397857.0,both
+13,244,Aladdin,tt6139732,movie,Aladdin,Aladdin,2019,128,"Adventure,Comedy,Family",aladdin,6.9,254894.0,both
+14,258,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",tt1698641,movie,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,81,"Comedy,Drama,Family",alexander and the terrible horrible no good very bad day,6.2,43592.0,both
+15,268,Alice in Wonderland,tt0043274,movie,Alice in Wonderland,Alice in Wonderland,1951,75,"Adventure,Animation,Comedy",alice in wonderland,7.4,137976.0,both
+16,291,Alice in Wonderland,tt1014759,movie,Alice in Wonderland,Alice in Wonderland,2010,108,"Adventure,Family,Fantasy",alice in wonderland,6.4,404443.0,both
+17,344,Alice Through the Looking Glass,tt2567026,movie,Alice Through the Looking Glass,Alice Through the Looking Glass,2016,113,"Adventure,Family,Fantasy",alice through the looking glass,6.2,103982.0,both
+18,356,Aliens of the Deep,tt0417415,movie,Aliens of the Deep,Aliens of the Deep,2005,100,"Documentary,Family",aliens of the deep,6.4,3003.0,both
+19,358,Almost Angels,tt0055740,movie,Almost Angels,Almost Angels,1962,93,"Comedy,Family,Music",almost angels,6.6,545.0,both
+20,360,America's Heart and Soul,tt0381006,movie,America's Heart & Soul,America's Heart & Soul,2004,84,Documentary,americas heart  soul,5.0,679.0,both
+21,361,Amy,tt0082017,movie,Amy,Amy,1981,100,"Drama,Family",amy,6.6,464.0,both
+22,429,Angels in the Outfield,tt0043286,movie,Angels in the Outfield,Angels in the Outfield,1951,99,"Comedy,Family,Fantasy",angels in the outfield,7.1,2401.0,both
+23,430,Angels in the Outfield,tt0109127,movie,Angels in the Outfield,Angels in the Outfield,1994,102,"Comedy,Family,Fantasy",angels in the outfield,6.2,31557.0,both
+24,433,Ant-Man,tt0478970,movie,Ant-Man,Ant-Man,2015,117,"Action,Adventure,Comedy",antman,7.3,634996.0,both
+25,456,Ant-Man and the Wasp,tt5095030,movie,Ant-Man and the Wasp,Ant-Man and the Wasp,2018,118,"Action,Adventure,Comedy",antman and the wasp,7.0,372401.0,both
+26,473,Around the World in 80 Days,tt0327437,movie,Around the World in 80 Days,Around the World in 80 Days,2004,120,"Action,Adventure,Comedy",around the world in 80 days,5.8,88987.0,both
+27,491,Artemis Fowl,tt3089630,movie,Artemis Fowl,Artemis Fowl,2020,95,"Adventure,Family,Fantasy",artemis fowl,4.2,27155.0,both
+28,495,Atlantis: The Lost Empire,tt0230011,movie,Atlantis: The Lost Empire,Atlantis: The Lost Empire,2001,95,"Action,Adventure,Animation",atlantis the lost empire,6.9,115023.0,both
+29,527,Avengers: Endgame,tt4154796,movie,Avengers: Endgame,Avengers: Endgame,2019,181,"Action,Adventure,Drama",avengers endgame,8.4,1028204.0,both
+30,538,Avengers: Infinity War,tt4154756,movie,Avengers: Infinity War,Avengers: Infinity War,2018,149,"Action,Adventure,Sci-Fi",avengers infinity war,8.5,993970.0,both
+31,561,Babes in Toyland,tt0054649,movie,Babes in Toyland,Babes in Toyland,1961,106,"Comedy,Family,Fantasy",babes in toyland,6.2,4138.0,both
+32,563,Babes in Toyland,tt0168473,movie,Babes in Toyland,Babes in Toyland,1997,74,"Animation,Comedy,Family",babes in toyland,4.9,563.0,both
+33,579,Bambi,tt0034492,movie,Bambi,Bambi,1942,70,"Adventure,Animation,Drama",bambi,7.3,139598.0,both
+34,619,Bears,tt2458776,movie,Bears,Bears,2014,78,"Documentary,Family",bears,7.3,6748.0,both
+35,644,Beauty and the Beast,tt0101414,movie,Beauty and the Beast,Beauty and the Beast,1991,84,"Animation,Family,Fantasy",beauty and the beast,8.1,437761.0,both
+36,723,Beauty and the Beast,tt2771200,movie,Beauty and the Beast,Beauty and the Beast,2017,129,"Adventure,Family,Fantasy",beauty and the beast,7.1,298558.0,both
+37,776,Bedknobs and Broomsticks,tt0066817,movie,Bedknobs and Broomsticks,Bedknobs and Broomsticks,1971,117,"Adventure,Animation,Comedy",bedknobs and broomsticks,7.1,36836.0,both
+38,830,Benji The Hunted,tt0092638,movie,Benji the Hunted,Benji the Hunted,1987,88,"Adventure,Family",benji the hunted,6.2,3057.0,both
+39,831,Beverly Hills Chihuahua,tt1014775,movie,Beverly Hills Chihuahua,Beverly Hills Chihuahua,2008,91,"Adventure,Comedy,Drama",beverly hills chihuahua,3.9,24069.0,both
+40,843,Big Hero 6,tt2245084,movie,Big Hero 6,Big Hero 6,2014,102,"Action,Adventure,Animation",big hero 6,7.8,444094.0,both
+41,854,Big Red,tt0055793,movie,Big Red,Big Red,1962,89,"Adventure,Drama,Family",big red,6.4,762.0,both
+42,881,Black Panther,tt1825683,movie,Black Panther,Black Panther,2018,134,"Action,Adventure,Sci-Fi",black panther,7.3,712404.0,both
+43,957,Black Widow,tt3480822,movie,Black Widow,Black Widow,2021,134,"Action,Adventure,Sci-Fi",black widow,6.7,342415.0,both
+44,985,Blackbeard's Ghost,tt0062737,movie,Blackbeard's Ghost,Blackbeard's Ghost,1968,106,"Comedy,Family,Fantasy",blackbeards ghost,6.8,5926.0,both
+45,987,Blank Check,tt0109287,movie,Blank Check,Blank Check,1994,93,"Comedy,Crime,Family",blank check,5.2,20390.0,both
+46,994,Bolt,tt0397892,movie,Bolt,Bolt,2008,96,"Adventure,Animation,Comedy",bolt,6.9,204444.0,both
+47,1010,Bon Voyage!,tt0055807,movie,Bon Voyage!,Bon Voyage!,1962,130,"Adventure,Comedy,Drama",bon voyage,5.7,674.0,both
+48,1092,Brave,tt1217209,movie,Brave,Brave,2012,93,"Adventure,Animation,Comedy",brave,7.1,399051.0,both
+49,1124,Bridge to Terabithia,tt0398808,movie,Bridge to Terabithia,Bridge to Terabithia,2007,96,"Drama,Family,Fantasy",bridge to terabithia,7.2,152790.0,both
+50,1130,Brother Bear,tt0328880,movie,Brother Bear,Brother Bear,2003,85,"Adventure,Animation,Comedy",brother bear,6.8,106756.0,both
+51,1143,Candleshoe,tt0075807,movie,Candleshoe,Candleshoe,1977,101,"Adventure,Comedy,Drama",candleshoe,6.7,4353.0,both
+52,1148,Captain America: Civil War,tt3498820,movie,Captain America: Civil War,Captain America: Civil War,2016,147,"Action,Adventure,Sci-Fi",captain america civil war,7.8,744673.0,both
+53,1176,Captain Marvel,tt4154664,movie,Captain Marvel,Captain Marvel,2019,123,"Action,Adventure,Sci-Fi",captain marvel,6.8,524999.0,both
+54,1188,Cars,tt0317219,movie,Cars,Cars,2006,117,"Adventure,Animation,Comedy",cars,7.2,401795.0,both
+55,1233,Cars 2,tt1216475,movie,Cars 2,Cars 2,2011,106,"Adventure,Animation,Comedy",cars 2,6.2,179499.0,both
+56,1249,Cars 3,tt3606752,movie,Cars 3,Cars 3,2017,102,"Adventure,Animation,Comedy",cars 3,6.7,91641.0,both
+57,1256,Charley and the Angel,tt0069866,movie,Charley and the Angel,Charley and the Angel,1973,93,"Comedy,Family,Fantasy",charley and the angel,6.1,564.0,both
+58,1258,Charlie The Lonesome Cougar,tt0062793,movie,"Charlie, the Lonesome Cougar","Charlie, the Lonesome Cougar",1967,75,"Adventure,Family",charlie the lonesome cougar,6.8,861.0,both
+59,1259,Cheetah,tt0097053,movie,Cheetah,Cheetah,1989,83,"Adventure,Drama,Family",cheetah,5.9,1041.0,both
+60,1276,Chicken Little,tt0371606,movie,Chicken Little,Chicken Little,2005,81,"Adventure,Animation,Comedy",chicken little,5.7,90803.0,both
+61,1294,Chimpanzee,tt1222815,movie,Chimpanzee,Chimpanzee,2012,78,"Documentary,Family",chimpanzee,7.1,6126.0,both
+62,1307,Christopher Robin,tt4575576,movie,Christopher Robin,Christopher Robin,2018,104,"Adventure,Animation,Comedy",christopher robin,7.2,75511.0,both
+63,1314,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe",tt0363771,movie,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,143,"Adventure,Family,Fantasy",the chronicles of narnia the lion the witch and the wardrobe,6.9,388131.0,both
+64,1323,Cinderella,tt0042332,movie,Cinderella,Cinderella,1950,74,"Animation,Family,Fantasy",cinderella,7.3,156032.0,both
+65,1392,Cinderella,tt1661199,movie,Cinderella,Cinderella,2015,105,"Adventure,Drama,Family",cinderella,6.9,173300.0,both
+66,1481,Coco,tt2380307,movie,Coco,Coco,2017,105,"Adventure,Animation,Comedy",coco,8.4,468350.0,both
+67,1508,College Road Trip,tt0997047,movie,College Road Trip,College Road Trip,2008,83,"Adventure,Comedy,Drama",college road trip,4.3,15989.0,both
+68,1511,Condorman,tt0082199,movie,Condorman,Condorman,1981,90,"Action,Adventure,Comedy",condorman,5.7,4879.0,both
+69,1514,Confessions of a Teenage Drama Queen,tt0361467,movie,Confessions of a Teenage Drama Queen,Confessions of a Teenage Drama Queen,2004,89,"Comedy,Family,Music",confessions of a teenage drama queen,4.6,28912.0,both
+70,1515,Cool Runnings,tt0106611,movie,Cool Runnings,Cool Runnings,1993,98,"Adventure,Comedy,Family",cool runnings,7.0,101868.0,both
+71,1530,Cruella,tt3228774,movie,Cruella,Cruella,2021,134,"Adventure,Comedy,Crime",cruella,7.4,214824.0,both
+72,1531,D2: The Mighty Ducks,tt0109520,movie,D2: The Mighty Ducks,D2: The Mighty Ducks,1994,106,"Comedy,Drama,Family",d2 the mighty ducks,6.1,39971.0,both
+73,1533,D3: The Mighty Ducks,tt0116000,movie,D3: The Mighty Ducks,D3: The Mighty Ducks,1996,104,"Action,Comedy,Drama",d3 the mighty ducks,5.4,26748.0,both
+74,1536,Darby O'Gill and the Little People,tt0052722,movie,Darby O'Gill and the Little People,Darby O'Gill and the Little People,1959,93,"Adventure,Family,Fantasy",darby ogill and the little people,7.2,8037.0,both
+75,1538,Davy Crockett and the River Pirates,tt0049125,movie,Davy Crockett and the River Pirates,Davy Crockett and the River Pirates,1956,81,"Adventure,Comedy,Drama",davy crockett and the river pirates,6.6,2098.0,both
+76,1541,Davy Crockett: King of the Wild Frontier,tt0047977,movie,Davy Crockett: King of the Wild Frontier,Davy Crockett: King of the Wild Frontier,1955,93,"Adventure,Drama,Family",davy crockett king of the wild frontier,6.9,4170.0,both
+77,1544,Dinosaur,tt0130623,movie,Dinosaur,Dinosaur,2000,82,"Adventure,Animation,Drama",dinosaur,6.4,58964.0,both
+78,1605,Do Dooni Chaar,tt1714832,movie,Do Dooni Chaar,Do Dooni Chaar,2010,112,"Comedy,Crime,Drama",do dooni chaar,7.5,5492.0,both
+80,1609,Dr. Seuss' Horton Hears a Who,tt0451079,movie,Horton Hears a Who!,Horton Hears a Who!,2008,86,"Adventure,Animation,Comedy",horton hears a who,6.8,137465.0,both
+81,1610,DuckTales: The Movie - Treasure of the Lost Lamp,tt0099472,movie,DuckTales the Movie: Treasure of the Lost Lamp,DuckTales the Movie: Treasure of the Lost Lamp,1990,74,"Adventure,Animation,Comedy",ducktales the movie treasure of the lost lamp,6.8,26485.0,both
+82,1611,Dumbo,tt0033563,movie,Dumbo,Dumbo,1941,64,"Adventure,Animation,Drama",dumbo,7.3,128807.0,both
+83,1618,Dumbo,tt3861390,movie,Dumbo,Dumbo,2019,112,"Adventure,Family,Fantasy",dumbo,6.3,73345.0,both
+84,1631,Earth,tt0393597,movie,Earth,Earth,2007,90,Documentary,earth,8.0,14491.0,both
+85,1677,Eight Below,tt0397313,movie,Eight Below,Eight Below,2006,120,"Adventure,Drama,Family",eight below,7.3,64119.0,both
+86,1684,Emil and the Detectives,tt0058056,movie,Emil and the Detectives,Emil and the Detectives,1964,99,"Comedy,Crime,Drama",emil and the detectives,6.2,699.0,both
+87,1693,Encanto,tt2953050,movie,Encanto,Encanto,2021,102,"Animation,Comedy,Family",encanto,7.3,168290.0,both
+88,1700,Enchanted,tt0461770,movie,Enchanted,Enchanted,2007,107,"Adventure,Animation,Comedy",enchanted,7.1,193702.0,both
+89,1714,Endurance,tt0120659,movie,Endurance,Endurance,1998,83,"Biography,Drama,Sport",endurance,6.3,419.0,both
+90,1759,Epic,tt0848537,movie,Epic,Epic,2013,102,"Action,Adventure,Animation",epic,6.6,104099.0,both
+91,1779,Escape To Witch Mountain,tt0072951,movie,Escape to Witch Mountain,Escape to Witch Mountain,1975,97,"Adventure,Family,Fantasy",escape to witch mountain,6.3,10197.0,both
+92,1785,Fantasia,tt0032455,movie,Fantasia,Fantasia,1940,125,"Animation,Family,Fantasy",fantasia,7.7,94101.0,both
+93,1821,Fantasia 2000,tt0120910,movie,Fantasia 2000,Fantasia 2000,1999,75,"Animation,Family,Fantasy",fantasia 2000,7.1,37801.0,both
+94,1830,Ferdinand,tt3411444,movie,Ferdinand,Ferdinand,2017,108,"Adventure,Animation,Comedy",ferdinand,6.7,55118.0,both
+95,1841,Finding Dory,tt2277860,movie,Finding Dory,Finding Dory,2016,97,"Adventure,Animation,Comedy",finding dory,7.3,264732.0,both
+96,1856,Finding Nemo,tt0266543,movie,Finding Nemo,Finding Nemo,2003,100,"Adventure,Animation,Comedy",finding nemo,8.2,1009977.0,both
+97,1869,First Kid,tt0116311,movie,First Kid,First Kid,1996,101,"Comedy,Family",first kid,5.2,10874.0,both
+98,1870,Flight of the Navigator,tt0091059,movie,Flight of the Navigator,Flight of the Navigator,1986,90,"Adventure,Comedy,Family",flight of the navigator,6.9,47388.0,both
+99,1875,Flubber,tt0119137,movie,Flubber,Flubber,1997,93,"Comedy,Family,Sci-Fi",flubber,5.3,88447.0,both
+100,1877,"Follow Me, Boys!",tt0060420,movie,"Follow Me, Boys!","Follow Me, Boys!",1966,131,"Drama,Family",follow me boys,7.2,2365.0,both
+101,1878,Frank and Ollie,tt0113104,movie,Frank and Ollie,Frank and Ollie,1995,89,Documentary,frank and ollie,7.7,903.0,both
+102,1880,Frankenweenie,tt1142977,movie,Frankenweenie,Frankenweenie,2012,87,"Animation,Comedy,Drama",frankenweenie,6.9,105006.0,both
+103,1891,Freaky Friday,tt0076054,movie,Freaky Friday,Freaky Friday,1976,95,"Comedy,Family,Fantasy",freaky friday,6.3,12777.0,both
+104,1893,Freaky Friday,tt0322330,movie,Freaky Friday,Freaky Friday,2003,97,"Comedy,Family,Fantasy",freaky friday,6.3,134839.0,both
+105,1991,Fun and Fancy Free,tt0039404,movie,Fun and Fancy Free,Fun & Fancy Free,1947,73,"Adventure,Animation,Comedy",fun and fancy free,6.5,8138.0,both
+106,1996,George of the Jungle,tt0119190,movie,George of the Jungle,George of the Jungle,1997,92,"Action,Adventure,Comedy",george of the jungle,5.5,76283.0,both
+107,2023,G-Force,tt0436339,movie,G-Force,G-Force,2009,88,"Action,Adventure,Animation",gforce,5.1,45793.0,both
+108,2031,Ghosts of the Abyss,tt0297144,movie,Ghosts of the Abyss,Ghosts of the Abyss,2003,61,"Documentary,Family",ghosts of the abyss,6.8,5384.0,both
+109,2032,Glory Road,tt0385726,movie,Glory Road,Glory Road,2006,118,"Biography,Drama,Sport",glory road,7.2,45510.0,both
+110,2036,Greyfriars Bobby: The True Story of a Dog,tt0054944,movie,Greyfriars Bobby: The True Story of a Dog,Greyfriars Bobby: The True Story of a Dog,1961,91,"Drama,Family",greyfriars bobby the true story of a dog,7.3,1558.0,both
+111,2040,Guardians of the Galaxy Vol. 2,tt3896198,movie,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy Vol. 2,2017,136,"Action,Adventure,Comedy",guardians of the galaxy vol 2,7.6,641940.0,both
+112,2057,Gus,tt0074599,movie,Gus,Gus,1976,96,"Comedy,Family,Sport",gus,5.7,1896.0,both
+113,2080,Hannah Montana & Miley Cyrus: Best of Both Worlds Concert,tt1127884,movie,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,2008,74,"Documentary,Music",hannah montana and miley cyrus best of both worlds concert,2.6,11993.0,both
+114,2082,Hannah Montana: The Movie,tt1114677,movie,Hannah Montana: The Movie,Hannah Montana: The Movie,2009,102,"Comedy,Drama,Family",hannah montana the movie,4.5,41959.0,both
+115,2090,Heavyweights,tt0110006,movie,Heavyweights,Heavyweights,1995,100,"Comedy,Drama,Family",heavyweights,6.6,27483.0,both
+116,2132,Herbie Goes Bananas,tt0080861,movie,Herbie Goes Bananas,Herbie Goes Bananas,1980,100,"Adventure,Comedy,Family",herbie goes bananas,4.9,5653.0,both
+117,2134,Herbie Goes To Monte Carlo,tt0076137,movie,Herbie Goes to Monte Carlo,Herbie Goes to Monte Carlo,1977,105,"Action,Adventure,Comedy",herbie goes to monte carlo,5.6,7371.0,both
+118,2135,Herbie Rides Again,tt0071607,movie,Herbie Rides Again,Herbie Rides Again,1974,88,"Comedy,Family,Fantasy",herbie rides again,5.7,7979.0,both
+119,2136,Herbie: Fully Loaded,tt0400497,movie,Herbie Fully Loaded,Herbie Fully Loaded,2005,101,"Adventure,Comedy,Family",herbie fully loaded,4.9,47316.0,both
+120,2141,Hercules,tt0119282,movie,Hercules,Hercules,1997,93,"Adventure,Animation,Comedy",hercules,7.3,222924.0,both
+121,2202,High School Musical 3: Senior Year,tt0962726,movie,High School Musical 3: Senior Year,High School Musical 3: Senior Year,2008,112,"Comedy,Drama,Family",high school musical 3 senior year,4.9,61638.0,both
+122,2204,High School Musical: China,tt1556143,movie,Disney High School Musical: China,Ge wu qing chun,2010,94,"Musical,Romance",disney high school musical china,5.3,105.0,both
+123,2206,Hocus Pocus,tt0107120,movie,Hocus Pocus,Hocus Pocus,1993,96,"Comedy,Family,Fantasy",hocus pocus,6.9,119673.0,both
+124,2244,Holes,tt0311289,movie,Holes,Holes,2003,117,"Adventure,Comedy,Drama",holes,7.0,85609.0,both
+126,2267,Home on the Range,tt0299172,movie,Home on the Range,Home on the Range,2004,76,"Adventure,Animation,Comedy",home on the range,5.4,22594.0,both
+127,2300,Homeward Bound II: Lost in San Francisco,tt0116552,movie,Homeward Bound II: Lost in San Francisco,Homeward Bound II: Lost in San Francisco,1996,88,"Adventure,Comedy,Family",homeward bound ii lost in san francisco,5.9,14932.0,both
+128,2301,Homeward Bound: The Incredible Journey,tt0107131,movie,Homeward Bound: The Incredible Journey,Homeward Bound: The Incredible Journey,1993,84,"Adventure,Comedy,Drama",homeward bound the incredible journey,6.9,45719.0,both
+129,2302,"Honey, I Blew Up The Kid",tt0104437,movie,"Honey, I Blew Up the Kid","Honey, I Blew Up the Kid",1992,89,"Adventure,Comedy,Family",honey i blew up the kid,4.8,43748.0,both
+130,2305,"Honey, I Shrunk The Kids",tt0097523,movie,"Honey, I Shrunk the Kids","Honey, I Shrunk the Kids",1989,93,"Adventure,Comedy,Family",honey i shrunk the kids,6.4,151575.0,both
+131,2314,Hot Lead And Cold Feet,tt0077698,movie,Hot Lead and Cold Feet,Hot Lead and Cold Feet,1978,90,"Comedy,Western",hot lead and cold feet,6.0,1327.0,both
+132,2317,Ice Age,tt0268380,movie,Ice Age,Ice Age,2002,81,"Adventure,Animation,Comedy",ice age,7.5,469920.0,both
+133,2352,Ice Princess,tt0396652,movie,Ice Princess,Ice Princess,2005,98,"Comedy,Drama,Family",ice princess,6.0,26878.0,both
+134,2358,I'll Be Home for Christmas,tt0155753,movie,I'll Be Home for Christmas,I'll Be Home for Christmas,1998,86,"Comedy,Family",ill be home for christmas,5.5,10550.0,both
+135,2381,In Search Of The Castaways,tt0056095,movie,In Search of the Castaways,In Search of the Castaways,1962,98,"Adventure,Family,Fantasy",in search of the castaways,6.5,3117.0,both
+136,2390,Incredibles 2,tt3606756,movie,Incredibles 2,Incredibles 2,2018,118,"Action,Adventure,Animation",incredibles 2,7.6,281697.0,both
+137,2479,Inside Out,tt2096673,movie,Inside Out,Inside Out,2015,95,"Adventure,Animation,Comedy",inside out,8.2,680446.0,both
+138,2532,Inspector Gadget,tt0141369,movie,Inspector Gadget,Inspector Gadget,1999,78,"Action,Adventure,Comedy",inspector gadget,4.1,47777.0,both
+140,2593,Into the Woods,tt2180411,movie,Into the Woods,Into the Woods,2014,125,"Adventure,Comedy,Drama",into the woods,5.9,139036.0,both
+141,2654,Invincible,tt0445990,movie,Invincible,Invincible,2006,105,"Biography,Drama,Sport",invincible,7.0,69941.0,both
+142,2688,Iron Will,tt0110157,movie,Iron Will,Iron Will,1994,108,"Adventure,Family",iron will,6.6,8469.0,both
+143,2697,James and the Giant Peach,tt0116683,movie,James and the Giant Peach,James and the Giant Peach,1996,79,"Adventure,Animation,Family",james and the giant peach,6.7,65453.0,both
+144,2701,John Carter,tt0401729,movie,John Carter,John Carter,2012,132,"Action,Adventure,Sci-Fi",john carter,6.6,267668.0,both
+145,2715,Johnny Tremain,tt0050567,movie,Johnny Tremain,Johnny Tremain,1957,80,"Adventure,Family,History",johnny tremain,6.5,1771.0,both
+146,2716,Jonas Brothers: The Concert Experience,tt1229827,movie,Jonas Brothers: The 3D Concert Experience,Jonas Brothers: The 3D Concert Experience,2009,76,"Documentary,Music",jonas brothers the 3d concert experience,1.7,17458.0,both
+147,2724,Jungle 2 Jungle,tt0119432,movie,Jungle 2 Jungle,Jungle 2 Jungle,1997,105,"Comedy,Family",jungle 2 jungle,5.1,24135.0,both
+148,2726,Jungle Cat,tt0053977,movie,Jungle Cat,Jungle Cat,1960,69,"Documentary,Family",jungle cat,7.3,327.0,both
+149,2728,Jungle Cruise,tt0870154,movie,Jungle Cruise,Jungle Cruise,2021,127,"Action,Adventure,Comedy",jungle cruise,6.6,172257.0,both
+150,2745,Kidnapped,tt0053994,movie,Kidnapped,Kidnapped,1959,97,"Action,Adventure,Drama",kidnapped,6.6,1458.0,both
+151,2932,King Of The Grizzlies,tt0065943,movie,King of the Grizzlies,King of the Grizzlies,1970,93,"Family,Western",king of the grizzlies,5.7,177.0,both
+152,2933,Lady and the Tramp,tt0048280,movie,Lady and the Tramp,Lady and the Tramp,1955,76,"Adventure,Animation,Comedy",lady and the tramp,7.3,132091.0,both
+153,2944,Lady and the Tramp,tt8096832,movie,Lady and the Tramp,Lady and the Tramp,2019,111,"Adventure,Comedy,Family",lady and the tramp,6.2,20716.0,both
+155,2958,Life-Size,tt0070131,movie,Lifesize,Grandeur nature,1974,101,"Comedy,Drama,Fantasy",lifesize,6.4,377.0,both
+157,2966,Like Stars On Earth,tt0986264,movie,Like Stars on Earth,Taare Zameen Par,2007,165,"Drama,Family",like stars on earth,8.4,186972.0,both
+158,2968,Lilo & Stitch,tt0275847,movie,Lilo & Stitch,Lilo & Stitch,2002,85,"Adventure,Animation,Comedy",lilo  stitch,7.3,183336.0,both
+160,2983,"Lt. Robin Crusoe, U.S.N.",tt0060640,movie,"Lt. Robin Crusoe, U.S.N.","Lt. Robin Crusoe, U.S.N.",1966,110,"Adventure,Comedy,Family",lt robin crusoe usn,5.8,1390.0,both
+161,2992,Luca,tt12801262,movie,Luca,Luca,2021,95,"Adventure,Animation,Comedy",luca,7.5,143221.0,both
+162,3025,Make Mine Music,tt0038718,movie,Make Mine Music,Make Mine Music,1946,75,"Adventure,Animation,Comedy",make mine music,6.2,4260.0,both
+163,3035,Maleficent,tt1587310,movie,Maleficent,Maleficent,2014,97,"Adventure,Family,Fantasy",maleficent,7.0,366474.0,both
+164,3054,Maleficent: Mistress of Evil,tt4777008,movie,Maleficent: Mistress of Evil,Maleficent: Mistress of Evil,2019,119,"Adventure,Family,Fantasy",maleficent mistress of evil,6.6,100063.0,both
+165,3056,Man of the House,tt0113755,movie,Man of the House,Man of the House,1995,96,"Comedy,Family",man of the house,5.2,9571.0,both
+166,3092,Mars Needs Moms,tt1305591,movie,Mars Needs Moms,Mars Needs Moms,2010,88,"Action,Adventure,Animation",mars needs moms,5.4,22237.0,both
+167,3099,Marvel Studios' Doctor Strange,tt1211837,movie,Doctor Strange,Doctor Strange,2016,115,"Action,Adventure,Fantasy",doctor strange,7.5,684960.0,both
+168,3100,Marvel's Avengers: Age of Ultron,tt2395427,movie,Avengers: Age of Ultron,Avengers: Age of Ultron,2015,141,"Action,Adventure,Sci-Fi",avengers age of ultron,7.3,824037.0,both
+169,3101,Marvel's Captain America: Winter Soldier,tt1843866,movie,Captain America: The Winter Soldier,Captain America: The Winter Soldier,2014,136,"Action,Adventure,Sci-Fi",captain america the winter soldier,7.8,808477.0,both
+170,3105,Marvel's Iron Man 3,tt1300854,movie,Iron Man 3,Iron Man Three,2013,130,"Action,Adventure,Sci-Fi",iron man 3,7.2,818517.0,both
+171,3106,Mary Poppins,tt0058331,movie,Mary Poppins,Mary Poppins,1964,139,"Comedy,Family,Fantasy",mary poppins,7.8,168154.0,both
+172,3129,Mary Poppins Returns,tt5028340,movie,Mary Poppins Returns,Mary Poppins Returns,2018,130,"Adventure,Comedy,Family",mary poppins returns,6.7,85960.0,both
+173,3139,Max Keeble's Big Move,tt0273799,movie,Max Keeble's Big Move,Max Keeble's Big Move,2001,86,"Comedy,Crime,Family",max keebles big move,5.4,8052.0,both
+174,3140,"McFarland, USA",tt2097298,movie,"McFarland, USA","McFarland, USA",2015,129,"Biography,Drama,Sport",mcfarland usa,7.4,38125.0,both
+175,3143,Meet The Deedles,tt0120645,movie,Meet the Deedles,Meet the Deedles,1998,93,"Comedy,Family",meet the deedles,4.0,2928.0,both
+176,3144,Meet the Robinsons,tt0396555,movie,Meet the Robinsons,Meet the Robinsons,2007,95,"Adventure,Animation,Comedy",meet the robinsons,6.8,96443.0,both
+177,3152,Melody Time,tt0040580,movie,Melody Time,Melody Time,1948,75,"Animation,Comedy,Family",melody time,6.2,5920.0,both
+178,3168,Midnight Madness,tt0081159,movie,Midnight Madness,Midnight Madness,1980,112,Comedy,midnight madness,6.3,3503.0,both
+179,3192,Mighty Joe Young,tt0041650,movie,Mighty Joe Young,Mighty Joe Young,1949,94,"Adventure,Drama,Fantasy",mighty joe young,7.0,5188.0,both
+180,3193,Mighty Joe Young,tt0120751,movie,Mighty Joe Young,Mighty Joe Young,1998,114,"Action,Adventure,Family",mighty joe young,5.7,28909.0,both
+181,3197,Million Dollar Arm,tt1647668,movie,Million Dollar Arm,Million Dollar Arm,2014,124,"Biography,Drama,Sport",million dollar arm,7.0,45582.0,both
+182,3264,Miracle of the White Stallions,tt0057312,movie,Miracle of the White Stallions,Miracle of the White Stallions,1963,118,"Adventure,Drama,Family",miracle of the white stallions,6.5,696.0,both
+183,3271,Moana,tt3521164,movie,Moana,Moana,2016,107,"Adventure,Animation,Comedy",moana,7.6,315940.0,both
+184,3282,"Monkeys, Go Home!",tt0061989,movie,"Monkeys, Go Home!","Monkeys, Go Home!",1967,101,"Comedy,Family",monkeys go home,5.8,521.0,both
+185,3283,Monsters University,tt1453405,movie,Monsters University,Monsters University,2013,104,"Adventure,Animation,Comedy",monsters university,7.3,347584.0,both
+186,3295,"Monsters, Inc.",tt0198781,movie,"Monsters, Inc.","Monsters, Inc.",2001,92,"Adventure,Animation,Comedy",monsters inc,8.1,876245.0,both
+187,3301,Moon Pilot,tt0056249,movie,Moon Pilot,Moon Pilot,1962,98,"Comedy,Family,Sci-Fi",moon pilot,5.4,468.0,both
+188,3302,Morning Light,tt1198405,movie,Morning Light,Morning Light,2008,100,"Documentary,Sport",morning light,5.8,389.0,both
+189,3310,Mr. Magoo,tt0119718,movie,Mr. Magoo,Mr. Magoo,1997,87,"Adventure,Comedy,Family",mr magoo,4.0,15174.0,both
+190,3313,Mr. Toad's Wild Ride,tt0118172,movie,Mr. Toad's Wild Ride,The Wind in the Willows,1996,88,"Adventure,Comedy,Family",mr toads wild ride,6.3,3243.0,both
+191,3315,Mulan,tt0120762,movie,Mulan,Mulan,1998,88,"Adventure,Animation,Comedy",mulan,7.6,277432.0,both
+192,3328,Mulan,tt4566758,movie,Mulan,Mulan,2020,115,"Action,Adventure,Drama",mulan,5.7,142661.0,both
+193,3340,Muppet Treasure Island,tt0117110,movie,Muppet Treasure Island,Muppet Treasure Island,1996,99,"Action,Adventure,Comedy",muppet treasure island,6.9,23776.0,both
+194,3347,Muppets Most Wanted,tt2281587,movie,Muppets Most Wanted,Muppets Most Wanted,2014,107,"Adventure,Comedy,Crime",muppets most wanted,6.4,34026.0,both
+195,3359,My Favorite Martian,tt0120764,movie,My Favorite Martian,My Favorite Martian,1999,94,"Comedy,Family,Sci-Fi",my favorite martian,5.1,13497.0,both
+196,3362,My Neighbors The Yamadas,tt0206013,movie,My Neighbors the Yamadas,Hôhokekyo tonari no Yamada-kun,1999,104,"Animation,Comedy,Family",my neighbors the yamadas,7.2,13756.0,both
+197,3364,Napoleon and Samantha,tt0068990,movie,Napoleon and Samantha,Napoleon and Samantha,1972,92,"Adventure,Drama",napoleon and samantha,6.0,982.0,both
+198,3366,National Treasure,tt0368891,movie,National Treasure,National Treasure,2004,131,"Action,Adventure,Mystery",national treasure,6.9,323124.0,both
+200,3382,National Treasure: Book of Secrets,tt0465234,movie,National Treasure: Book of Secrets,National Treasure: Book of Secrets,2007,124,"Action,Adventure,Mystery",national treasure book of secrets,6.5,231520.0,both
+201,3387,Never a Dull Moment,tt0063341,movie,Never a Dull Moment,Never a Dull Moment,1968,99,"Comedy,Crime,Family",never a dull moment,6.1,716.0,both
+202,3394,Never Cry Wolf,tt0086005,movie,Never Cry Wolf,Never Cry Wolf,1983,105,"Adventure,Drama",never cry wolf,7.5,8120.0,both
+203,3396,Newsies,tt0104990,movie,Newsies,Newsies,1992,121,"Drama,Family,History",newsies,6.9,20510.0,both
+204,3402,Night Crossing,tt0082810,movie,Night Crossing,Night Crossing,1982,107,"Drama,Family,History",night crossing,6.5,1421.0,both
+205,3404,"Nikki, Wild Dog of the North",tt0055232,movie,"Nikki, Wild Dog of the North","Nikki, Wild Dog of the North",1961,74,"Adventure,Family",nikki wild dog of the north,6.7,454.0,both
+206,3406,No Deposit No Return,tt0074968,movie,"No Deposit, No Return",No Deposit No Return,1976,112,"Comedy,Family",no deposit no return,6.4,1521.0,both
+207,3415,"Now You See Him, Now You Don't",tt0069031,movie,"Now You See Him, Now You Don't","Now You See Him, Now You Don't",1972,88,"Comedy,Family,Sci-Fi",now you see him now you dont,6.2,2042.0,both
+208,3425,Oceans,tt0765128,movie,Oceans,Océans,2009,104,Documentary,oceans,7.7,9609.0,both
+210,3467,Old Dogs,tt0976238,movie,Old Dogs,Old Dogs,2009,88,"Comedy,Family",old dogs,5.3,37693.0,both
+211,3475,Old Yeller,tt0050798,movie,Old Yeller,Old Yeller,1957,83,"Adventure,Drama,Family",old yeller,7.3,13292.0,both
+212,3481,Oliver & Company,tt0095776,movie,Oliver & Company,Oliver & Company,1988,74,"Adventure,Animation,Comedy",oliver  company,6.7,47520.0,both
+213,3523,Once Upon a Warrior,tt1621994,movie,Once Upon a Warrior,Anaganaga O Dheerudu,2011,133,"Action,Adventure,Family",once upon a warrior,5.3,550.0,both
+214,3524,One Little Indian,tt0070481,movie,One Little Indian,One Little Indian,1973,90,"Comedy,Family,Western",one little indian,6.2,630.0,both
+215,3530,One Magic Christmas,tt0089731,movie,One Magic Christmas,One Magic Christmas,1985,89,"Family,Fantasy",one magic christmas,6.5,3788.0,both
+216,3531,One of Our Dinosaurs Is Missing,tt0075016,movie,One of Our Dinosaurs Is Missing,One of Our Dinosaurs Is Missing,1975,94,"Adventure,Comedy,Family",one of our dinosaurs is missing,5.9,1780.0,both
+217,3556,Onward,tt7146812,movie,Onward,Onward,2020,102,"Adventure,Animation,Comedy",onward,7.4,138242.0,both
+218,3559,Operation Dumbo Drop,tt0114048,movie,Operation Dumbo Drop,Operation Dumbo Drop,1995,107,"Action,Adventure,Comedy",operation dumbo drop,5.1,8968.0,both
+219,3560,Oz the Great and Powerful,tt1623205,movie,Oz the Great and Powerful,Oz the Great and Powerful,2013,130,"Adventure,Family,Fantasy",oz the great and powerful,6.3,205545.0,both
+220,3582,Peter Pan,tt0046183,movie,Peter Pan,Peter Pan,1953,77,"Adventure,Animation,Family",peter pan,7.3,136005.0,both
+221,3610,Pete's Dragon,tt0076538,movie,Pete's Dragon,Pete's Dragon,1977,128,"Adventure,Animation,Comedy",petes dragon,6.3,24308.0,both
+222,3612,Pete's Dragon,tt2788732,movie,Pete's Dragon,Pete's Dragon,2016,102,"Action,Adventure,Comedy",petes dragon,6.7,57550.0,both
+223,3620,Pinocchio,tt0032910,movie,Pinocchio,Pinocchio,1940,88,"Adventure,Animation,Comedy",pinocchio,7.5,140982.0,both
+224,3682,Pirates of the Caribbean: At World's End,tt0449088,movie,Pirates of the Caribbean: At World's End,Pirates of the Caribbean: At World's End,2007,169,"Action,Adventure,Fantasy",pirates of the caribbean at worlds end,7.1,628678.0,both
+225,3688,Pirates of the Caribbean: Dead Man's Chest,tt0383574,movie,Pirates of the Caribbean: Dead Man's Chest,Pirates of the Caribbean: Dead Man's Chest,2006,151,"Action,Adventure,Fantasy",pirates of the caribbean dead mans chest,7.4,691605.0,both
+226,3694,Pirates of the Caribbean: Dead Men Tell No Tales,tt1790809,movie,Pirates of the Caribbean: Dead Men Tell No Tales,Pirates of the Caribbean: Dead Men Tell No Tales,2017,129,"Action,Adventure,Fantasy",pirates of the caribbean dead men tell no tales,6.6,292342.0,both
+227,3705,Pirates of the Caribbean: On Stranger Tides,tt1298650,movie,Pirates of the Caribbean: On Stranger Tides,Pirates of the Caribbean: On Stranger Tides,2011,137,"Action,Adventure,Fantasy",pirates of the caribbean on stranger tides,6.6,509648.0,both
+228,3711,Pirates of the Caribbean: The Curse of the Black Pearl,tt0325980,movie,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action,Adventure,Fantasy",pirates of the caribbean the curse of the black pearl,8.1,1068548.0,both
+229,3718,Planes,tt1691917,movie,Planes,Planes,2013,91,"Adventure,Animation,Comedy",planes,5.7,44561.0,both
+230,3738,Planes: Fire & Rescue,tt2980706,movie,Planes: Fire & Rescue,Planes: Fire & Rescue,2014,83,"Adventure,Animation,Comedy",planes fire  rescue,6.0,17803.0,both
+231,3742,Pocahontas,tt0114148,movie,Pocahontas,Pocahontas,1995,81,"Adventure,Animation,Drama",pocahontas,6.7,181992.0,both
+233,3787,Pollyanna,tt0054195,movie,Pollyanna,Pollyanna,1920,58,"Comedy,Drama,Family",pollyanna,7.4,10132.0,both
+234,3788,Pollyanna,tt0054195,movie,Pollyanna,Pollyanna,1960,134,"Comedy,Drama,Family",pollyanna,7.4,10132.0,both
+235,3794,Prince of Persia: The Sands of Time,tt0473075,movie,Prince of Persia: The Sands of Time,Prince of Persia: The Sands of Time,2010,116,"Action,Adventure,Fantasy",prince of persia the sands of time,6.6,284875.0,both
+236,3818,Prom,tt1604171,movie,Prom,Prom,2011,104,"Comedy,Drama,Family",prom,5.4,15230.0,both
+237,3853,Queen of Katwe,tt4341582,movie,Queen of Katwe,Queen of Katwe,2016,124,"Biography,Drama,Sport",queen of katwe,7.4,17079.0,both
+238,3854,Race To Witch Mountain,tt1075417,movie,Race to Witch Mountain,Race to Witch Mountain,2009,98,"Action,Adventure,Family",race to witch mountain,5.7,59022.0,both
+239,3857,Ralph Breaks the Internet: Wreck-It Ralph 2,tt5848272,movie,Ralph Breaks the Internet,Ralph Breaks the Internet,2018,112,"Adventure,Animation,Comedy",ralph breaks the internet,7.0,152507.0,both
+240,3858,Rascal,tt0064875,movie,Rascal,Rascal,1969,85,"Drama,Family",rascal,6.4,461.0,both
+241,3872,Ratatouille,tt0382932,movie,Ratatouille,Ratatouille,2007,111,"Adventure,Animation,Comedy",ratatouille,8.1,692964.0,both
+242,3889,Raya and the Last Dragon,tt5109280,movie,Raya and the Last Dragon,Raya and the Last Dragon,2021,107,"Action,Adventure,Animation",raya and the last dragon,7.3,138407.0,both
+243,3894,Recess: School's Out,tt0265632,movie,Recess: School's Out,Recess: School's Out,2001,82,"Adventure,Animation,Comedy",recess schools out,6.5,10448.0,both
+244,3896,Remember the Titans,tt0210945,movie,Remember the Titans,Remember the Titans,2000,113,"Biography,Drama,Sport",remember the titans,7.8,210201.0,both
+245,3899,Return from Witch Mountain,tt0078158,movie,Return from Witch Mountain,Return from Witch Mountain,1978,95,"Adventure,Family,Fantasy",return from witch mountain,5.7,5072.0,both
+246,3903,Return to Never Land,tt0280030,movie,Peter Pan 2: Return to Never Land,Return to Never Land,2002,72,"Adventure,Animation,Family",peter pan 2 return to never land,5.8,20022.0,both
+247,3905,Return to Oz,tt0089908,movie,Return to Oz,Return to Oz,1985,113,"Adventure,Family,Fantasy",return to oz,6.8,26789.0,both
+248,3916,Return to Snowy River,tt0095993,movie,Return to Snowy River,The Man from Snowy River II,1988,110,"Adventure,Drama,Western",return to snowy river,6.6,2516.0,both
+249,3917,Ride a Wild Pony,tt0075141,movie,Ride a Wild Pony,Ride a Wild Pony,1975,91,"Adventure,Family",ride a wild pony,6.1,201.0,both
+250,3930,Rio,tt1436562,movie,Rio,Rio,2011,96,"Adventure,Animation,Comedy",rio,6.9,221457.0,both
+251,3962,Rio 2,tt2357291,movie,Rio 2,Rio 2,2014,101,"Adventure,Animation,Comedy",rio 2,6.3,87813.0,both
+252,3969,Rob Roy: The Highland Rogue,tt0046246,movie,Rob Roy: The Highland Rogue,Rob Roy: The Highland Rogue,1953,81,"Adventure,Biography,Drama",rob roy the highland rogue,6.4,589.0,both
+253,3973,Robin Hood,tt0070608,movie,Robin Hood,Robin Hood,1973,83,"Adventure,Animation,Comedy",robin hood,7.5,124014.0,both
+254,4042,Robots,tt0358082,movie,Robots,Robots,2005,91,"Adventure,Animation,Comedy",robots,6.4,142928.0,both
+255,4109,RocketMan,tt0120029,movie,RocketMan,RocketMan,1997,95,"Comedy,Family,Sci-Fi",rocketman,5.9,9605.0,both
+256,4131,Rogue One: A Star Wars Story,tt3748528,movie,Rogue One: A Star Wars Story,Rogue One,2016,133,"Action,Adventure,Sci-Fi",rogue one a star wars story,7.8,600208.0,both
+257,4153,Santa Paws 2: The Santa Pups,tt2414212,movie,Santa Paws 2: The Santa Pups,Santa Paws 2: The Santa Pups,2012,88,"Adventure,Family",santa paws 2 the santa pups,4.9,1367.0,both
+258,4154,Savage Sam,tt0057473,movie,Savage Sam,Savage Sam,1963,103,"Adventure,Drama,Family",savage sam,6.1,1057.0,both
+259,4156,Saving Mr. Banks,tt2140373,movie,Saving Mr. Banks,Saving Mr. Banks,2013,125,"Biography,Comedy,Drama",saving mr banks,7.5,159490.0,both
+260,4162,Scandalous John,tt0067712,movie,Scandalous John,Scandalous John,1971,113,"Comedy,Drama,Family",scandalous john,5.9,138.0,both
+261,4164,Secretariat,tt1028576,movie,Secretariat,Secretariat,2010,123,"Biography,Drama,Family",secretariat,7.2,28116.0,both
+262,4172,Secrets of Life,tt0049733,movie,Secrets of Life,Secrets of Life,1956,70,"Documentary,Family",secrets of life,7.4,271.0,both
+263,4173,Secrets of Life,tt2064925,movie,Secrets of Life,Secrets of Life,2009,100,Documentary,secrets of life,2.8,14.0,both
+264,4180,Shang-Chi and The Legend of The Ten Rings,tt9376612,movie,Shang-Chi and the Legend of the Ten Rings,Shang-Chi and the Legend of the Ten Rings,2021,132,"Action,Adventure,Fantasy",shangchi and the legend of the ten rings,7.5,336352.0,both
+265,4183,Shipwrecked,tt0099816,movie,Shipwrecked,Shipwrecked,1926,74,"Adventure,Drama,Romance",shipwrecked,6.6,2802.0,both
+266,4184,Shipwrecked,tt0099816,movie,Shipwrecked,Haakon Haakonsen,1990,92,"Adventure,Family",shipwrecked,6.6,2802.0,both
+267,4238,Sky High,tt0405325,movie,Sky High,Sky High,2005,100,"Action,Comedy,Family",sky high,6.3,85310.0,both
+268,4271,Sleeping Beauty (1959),tt0053285,movie,Sleeping Beauty,Sleeping Beauty,1959,75,"Adventure,Animation,Family",sleeping beauty,7.3,145266.0,both
+269,4280,Smith!,tt0065003,movie,Smith!,Smith!,1969,112,"Drama,Family,Western",smith,5.8,238.0,both
+270,4299,Snow Dogs,tt0281373,movie,Snow Dogs,Snow Dogs,2002,99,"Adventure,Comedy,Family",snow dogs,5.2,26763.0,both
+271,4301,Snow White and the Seven Dwarfs,tt0029583,movie,Snow White and the Seven Dwarfs,Snow White and the Seven Dwarfs,1937,83,"Adventure,Animation,Family",snow white and the seven dwarfs,7.6,194173.0,both
+272,4317,Snowball Express,tt0069291,movie,Snowball Express,Snowball Express,1972,93,"Comedy,Family",snowball express,6.3,1781.0,both
+273,4319,So Dear To My Heart,tt0041890,movie,So Dear to My Heart,So Dear to My Heart,1948,79,"Animation,Drama,Family",so dear to my heart,6.9,1461.0,both
+274,4331,Solo: A Star Wars Story,tt3778644,movie,Solo: A Star Wars Story,Solo: A Star Wars Story,2018,135,"Action,Adventure,Sci-Fi",solo a star wars story,6.9,327357.0,both
+275,4349,Something Wicked This Way Comes,tt0086336,movie,Something Wicked This Way Comes,Something Wicked This Way Comes,1983,95,"Fantasy,Mystery,Thriller",something wicked this way comes,6.7,9173.0,both
+276,4375,Son of Flubber,tt0057518,movie,Son of Flubber,Son of Flubber,1963,100,"Comedy,Family,Sci-Fi",son of flubber,6.1,2959.0,both
+277,4412,Soul,tt2948372,movie,Soul,Soul,2020,100,"Adventure,Animation,Comedy",soul,8.1,303412.0,both
+278,4429,Sounder,tt0069303,movie,Sounder,Sounder,1972,105,"Drama,Family",sounder,7.6,4123.0,both
+279,4436,Spies in Disguise,tt5814534,movie,Spies in Disguise,Spies in Disguise,2019,102,"Action,Adventure,Animation",spies in disguise,6.8,45713.0,both
+280,4437,Squanto: A Warrior's Tale,tt0111271,movie,Squanto: A Warrior's Tale,Squanto: A Warrior's Tale,1994,102,"Adventure,Biography,Drama",squanto a warriors tale,6.0,1248.0,both
+281,4573,Summer Magic,tt0057542,movie,Summer Magic,Summer Magic,1963,110,"Comedy,Family,Musical",summer magic,7.0,2417.0,both
+282,4576,Superdad,tt0070716,movie,Superdad,Superdad,1973,96,"Comedy,Family",superdad,5.2,763.0,both
+283,4588,Swiss Family Robinson,tt0054357,movie,Swiss Family Robinson,Swiss Family Robinson,1960,126,"Adventure,Family",swiss family robinson,7.1,15929.0,both
+284,4600,Tall Tale: The Unbelievable Adventure,tt0111359,movie,Tall Tale,Tall Tale,1995,96,"Adventure,Family,Fantasy",tall tale,5.9,3787.0,both
+285,4606,Tangled,tt0398286,movie,Tangled,Tangled,2010,100,"Adventure,Animation,Comedy",tangled,7.8,436721.0,both
+286,4636,Tarzan,tt0120855,movie,Tarzan,Tarzan,1999,88,"Adventure,Animation,Comedy",tarzan,7.3,219094.0,both
+287,4646,Tarzan,tt1705952,movie,Tarzan,Tarzan,2013,94,"Action,Adventure,Animation",tarzan,4.8,12504.0,both
+288,4659,Teacher's Pet,tt0350194,movie,Teacher's Pet,Teacher's Pet,2004,73,"Adventure,Animation,Comedy",teachers pet,5.8,1778.0,both
+289,4767,Ten Who Dared,tt0054372,movie,Ten Who Dared,Ten Who Dared,1960,92,"Adventure,Family,Western",ten who dared,5.5,254.0,both
+290,4769,Tex,tt0084783,movie,Tex,Tex,1982,103,Drama,tex,6.5,2208.0,both
+291,4779,That Darn Cat,tt0059793,movie,That Darn Cat!,That Darn Cat!,1965,116,"Comedy,Crime,Family",that darn cat,6.7,6854.0,both
+292,4780,That Darn Cat,tt0120317,movie,That Darn Cat,That Darn Cat,1997,89,"Action,Comedy,Crime",that darn cat,4.6,4407.0,both
+293,4791,The Adventures Of Bullwhip Griffin,tt0061333,movie,The Adventures of Bullwhip Griffin,The Adventures of Bullwhip Griffin,1967,108,"Action,Adventure,Comedy",the adventures of bullwhip griffin,6.5,1042.0,both
+294,4792,The Adventures of Huck Finn,tt0106223,movie,The Adventures of Huck Finn,The Adventures of Huck Finn,1993,108,"Adventure,Comedy,Drama",the adventures of huck finn,6.2,8501.0,both
+295,4794,The Adventures of Huck Finn,tt2081266,movie,The Adventures of Huck Finn,Die Abenteuer des Huck Finn,2012,99,"Adventure,Family",the adventures of huck finn,5.8,336.0,both
+296,4795,The Adventures Of Ichabod And Mr. Toad,tt0041094,movie,The Adventures of Ichabod and Mr. Toad,The Adventures of Ichabod and Mr. Toad,1949,68,"Animation,Comedy,Family",the adventures of ichabod and mr toad,6.9,15232.0,both
+297,4797,The African Lion,tt0047803,movie,The African Lion,The African Lion,1955,75,"Documentary,Family",the african lion,7.2,467.0,both
+298,4798,The Apple Dumpling Gang,tt0072653,movie,The Apple Dumpling Gang,The Apple Dumpling Gang,1975,100,"Comedy,Family,Western",the apple dumpling gang,6.4,5738.0,both
+299,4800,The Apple Dumpling Gang Rides Again,tt0078790,movie,The Apple Dumpling Gang Rides Again,The Apple Dumpling Gang Rides Again,1979,88,"Comedy,Family,Western",the apple dumpling gang rides again,6.0,2845.0,both
+300,4801,The Aristocats,tt0065421,movie,The Aristocats,The AristoCats,1970,78,"Adventure,Animation,Comedy",the aristocats,7.1,101407.0,both
+301,4805,The Barefoot Executive,tt0066811,movie,The Barefoot Executive,The Barefoot Executive,1971,96,"Comedy,Family",the barefoot executive,5.9,1899.0,both
+302,4807,The Bears And I,tt0071199,movie,The Bears and I,The Bears and I,1974,89,"Drama,Family",the bears and i,6.2,446.0,both
+303,4811,The BFG,tt3691740,movie,The BFG,The BFG,2016,117,"Adventure,Family,Fantasy",the bfg,6.4,84180.0,both
+304,4819,The Big Green,tt0112499,movie,The Big Green,The Big Green,1995,100,"Comedy,Family,Sport",the big green,5.5,10045.0,both
+305,4822,The Biscuit Eater,tt0032254,movie,The Biscuit Eater,The Biscuit Eater,1940,81,"Drama,Family",the biscuit eater,7.2,222.0,both
+306,4823,The Biscuit Eater,tt0068276,movie,The Biscuit Eater,The Biscuit Eater,1972,90,"Drama,Family",the biscuit eater,5.8,433.0,both
+307,4824,The Black Cauldron,tt0088814,movie,The Black Cauldron,The Black Cauldron,1985,80,"Action,Adventure,Animation",the black cauldron,6.4,35274.0,both
+308,4832,The Black Hole,tt0078869,movie,The Black Hole,The Black Hole,1979,98,"Action,Sci-Fi",the black hole,5.9,25204.0,both
+309,4855,The Boatniks,tt0065482,movie,The Boatniks,The Boatniks,1970,99,"Comedy,Family",the boatniks,5.5,771.0,both
+310,4858,The Boys: The Sherman Brothers' Story,tt1015971,movie,The Boys,The Boys: The Sherman Brothers' Story,2009,101,Documentary,the boys,7.7,1139.0,both
+311,4859,The Brave Little Toaster,tt0092695,movie,The Brave Little Toaster,The Brave Little Toaster,1987,90,"Adventure,Animation,Family",the brave little toaster,7.3,25409.0,both
+312,4869,The Castaway Cowboy,tt0071288,movie,The Castaway Cowboy,The Castaway Cowboy,1974,91,"Comedy,Family,Western",the castaway cowboy,5.8,703.0,both
+313,4871,The Cat from Outer Space,tt0077305,movie,The Cat from Outer Space,The Cat from Outer Space,1978,104,"Comedy,Family,Sci-Fi",the cat from outer space,6.0,5121.0,both
+314,4879,The Christmas Star,tt0090840,movie,The Christmas Star,The Christmas Star,1986,94,"Drama,Family",the christmas star,6.3,630.0,both
+315,4885,The Chronicles of Narnia: Prince Caspian,tt0499448,movie,The Chronicles of Narnia: Prince Caspian,The Chronicles of Narnia: Prince Caspian,2008,150,"Action,Adventure,Family",the chronicles of narnia prince caspian,6.5,206258.0,both
+316,4891,The Computer Wore Tennis Shoes,tt0065566,movie,The Computer Wore Tennis Shoes,The Computer Wore Tennis Shoes,1969,91,"Comedy,Family,Sci-Fi",the computer wore tennis shoes,6.0,5185.0,both
+317,4893,The Country Bears,tt0276033,movie,The Country Bears,The Country Bears,2002,88,"Comedy,Family,Music",the country bears,4.2,5538.0,both
+318,4901,The Crimson Wing: Mystery of the Flamingos,tt0902967,movie,The Crimson Wing: Mystery of the Flamingos,The Crimson Wing: Mystery of the Flamingos,2008,78,Documentary,the crimson wing mystery of the flamingos,7.3,1263.0,both
+319,4902,The Devil and Max Devlin,tt0082263,movie,The Devil and Max Devlin,The Devil and Max Devlin,1981,96,"Comedy,Family,Fantasy",the devil and max devlin,5.0,1295.0,both
+320,4905,The Duke,tt0196516,movie,The Duke,The Duke,1999,88,"Comedy,Drama,Family",the duke,4.5,539.0,both
+321,4924,The Emperor's New Groove,tt0120917,movie,The Emperor's New Groove,The Emperor's New Groove,2000,78,"Adventure,Animation,Comedy",the emperors new groove,7.4,196431.0,both
+322,4936,The Fighting Prince of Donegal,tt0060408,movie,The Fighting Prince of Donegal,The Fighting Prince of Donegal,1966,110,"Adventure,Biography,Family",the fighting prince of donegal,6.1,387.0,both
+323,4937,The Finest Hours,tt0058099,movie,The Finest Hours,The Finest Hours,1964,116,"Biography,Documentary,War",the finest hours,7.3,79.0,both
+324,4938,The Finest Hours,tt2025690,movie,The Finest Hours,The Finest Hours,2016,117,"Action,Drama,History",the finest hours,6.7,65647.0,both
+325,4940,The Fox and the Hound,tt0082406,movie,The Fox and the Hound,The Fox and the Hound,1981,83,"Adventure,Animation,Drama",the fox and the hound,7.3,90978.0,both
+326,4951,The Game Plan,tt0492956,movie,The Game Plan,The Game Plan,2007,110,"Comedy,Family,Sport",the game plan,6.2,64940.0,both
+327,4963,The Gnome-Mobile,tt0061715,movie,The Gnome-Mobile,The Gnome-Mobile,1967,84,"Adventure,Family,Fantasy",the gnomemobile,6.5,2190.0,both
+328,4966,The Good Dinosaur,tt1979388,movie,The Good Dinosaur,The Good Dinosaur,2015,93,"Adventure,Animation,Comedy",the good dinosaur,6.7,111863.0,both
+329,4976,The Great Locomotive Chase,tt0049279,movie,The Great Locomotive Chase,The Great Locomotive Chase,1956,85,"Action,Adventure,Family",the great locomotive chase,6.9,1198.0,both
+330,4977,The Great Mouse Detective,tt0091149,movie,The Great Mouse Detective,The Great Mouse Detective,1986,74,"Adventure,Animation,Family",the great mouse detective,7.2,48658.0,both
+331,4983,The Great Muppet Caper,tt0082474,movie,The Great Muppet Caper,The Great Muppet Caper,1981,97,"Adventure,Comedy,Crime",the great muppet caper,7.1,15222.0,both
+332,4986,The Greatest Game Ever Played,tt0388980,movie,The Greatest Game Ever Played,The Greatest Game Ever Played,2005,120,"Biography,Drama,Sport",the greatest game ever played,7.4,30200.0,both
+333,4990,The Happiest Millionaire,tt0061749,movie,The Happiest Millionaire,The Happiest Millionaire,1967,141,"Comedy,Family,Musical",the happiest millionaire,6.6,2116.0,both
+334,4992,The Haunted Mansion,tt0338094,movie,The Haunted Mansion,The Haunted Mansion,2003,99,"Comedy,Family,Fantasy",the haunted mansion,5.1,47909.0,both
+335,5000,The Horse In The Gray Flannel Suit,tt0063091,movie,The Horse in the Gray Flannel Suit,The Horse in the Gray Flannel Suit,1968,113,"Comedy,Drama,Family",the horse in the gray flannel suit,6.3,1002.0,both
+336,5005,The Hunchback of Notre Dame,tt0116583,movie,The Hunchback of Notre Dame,The Hunchback of Notre Dame,1996,91,"Animation,Drama,Family",the hunchback of notre dame,7.0,152908.0,both
+337,5039,The Incredible Journey,tt0057180,movie,The Incredible Journey,The Incredible Journey,1963,80,"Adventure,Drama,Family",the incredible journey,7.1,4593.0,both
+338,5047,The Incredibles,tt0317705,movie,The Incredibles,The Incredibles,2004,115,"Action,Adventure,Animation",the incredibles,8.1,701249.0,both
+339,5056,The Island at the Top of the World,tt0071671,movie,The Island at the Top of the World,The Island at the Top of the World,1974,93,"Adventure,Family,Fantasy",the island at the top of the world,6.2,2733.0,both
+340,5057,The Journey of Natty Gann,tt0089385,movie,The Journey of Natty Gann,The Journey of Natty Gann,1985,101,"Adventure,Family",the journey of natty gann,7.0,6047.0,both
+341,5069,The Jungle Book 2,tt0283426,movie,The Jungle Book 2,The Jungle Book 2,2003,72,"Adventure,Animation,Comedy",the jungle book 2,5.3,16152.0,both
+342,5076,The Kid,tt0219854,movie,The Kid,The Kid,2000,104,"Comedy,Family,Fantasy",the kid,6.1,41871.0,both
+343,5145,The Last Flight Of Noah's Ark,tt0081031,movie,The Last Flight of Noah's Ark,The Last Flight of Noah's Ark,1980,97,"Adventure,Family",the last flight of noahs ark,5.7,1387.0,both
+344,5146,The Legend of Lobo,tt0056173,movie,The Legend of Lobo,The Legend of Lobo,1962,67,"Adventure,Family",the legend of lobo,6.8,533.0,both
+345,5147,The Light in the Forest,tt0051864,movie,The Light in the Forest,The Light in the Forest,1958,83,"Adventure,Drama,Family",the light in the forest,6.5,605.0,both
+346,5149,The Lion King,tt0110357,movie,The Lion King,The Lion King,1994,88,"Adventure,Animation,Drama",the lion king,8.5,1015483.0,both
+347,5179,The Lion King,tt6105098,movie,The Lion King,The Lion King,2019,118,"Adventure,Animation,Drama",the lion king,6.9,235181.0,both
+348,5193,The Little Mermaid,tt0097757,movie,The Little Mermaid,The Little Mermaid,1989,83,"Adventure,Animation,Comedy",the little mermaid,7.6,253875.0,both
+349,5238,The Littlest Horse Thieves,tt0076320,movie,The Littlest Horse Thieves,Escape from the Dark,1976,104,"Drama,Family",the littlest horse thieves,7.0,396.0,both
+350,5239,The Littlest Outlaw,tt0048304,movie,The Littlest Outlaw,The Littlest Outlaw,1955,73,"Drama,Family",the littlest outlaw,6.2,252.0,both
+351,5240,The Living Desert,tt0046008,movie,The Living Desert,The Living Desert,1953,69,"Documentary,Family",the living desert,7.4,1495.0,both
+352,5242,The Lizzie McGuire Movie,tt0306841,movie,The Lizzie McGuire Movie,The Lizzie McGuire Movie,2003,94,"Adventure,Comedy,Family",the lizzie mcguire movie,5.5,39152.0,both
+353,5253,The Lone Ranger,tt1210819,movie,The Lone Ranger,The Lone Ranger,2013,150,"Action,Adventure,Western",the lone ranger,6.4,230467.0,both
+354,5266,The Love Bug,tt0064603,movie,The Love Bug,The Love Bug,1968,108,"Comedy,Family,Sport",the love bug,6.5,15755.0,both
+355,5280,The Many Adventures of Winnie the Pooh,tt0076363,movie,The Many Adventures of Winnie the Pooh,The Many Adventures of Winnie the Pooh,1977,74,"Adventure,Animation,Comedy",the many adventures of winnie the pooh,7.5,35504.0,both
+356,5282,The Mighty Ducks,tt0104868,movie,The Mighty Ducks,The Mighty Ducks,1992,104,"Comedy,Drama,Family",the mighty ducks,6.5,65105.0,both
+357,5286,The Million Dollar Duck,tt0066728,movie,The Million Dollar Duck,The Million Dollar Duck,1971,89,"Comedy,Family,Sci-Fi",the million dollar duck,5.7,2329.0,both
+358,5287,The Million Dollar Duck,tt5372452,movie,The Million Dollar Duck,The Million Dollar Duck,2016,71,Documentary,the million dollar duck,7.5,93.0,both
+359,5297,The Misadventures of Merlin Jones,tt0058355,movie,The Misadventures of Merlin Jones,The Misadventures of Merlin Jones,1964,91,"Comedy,Family,Sci-Fi",the misadventures of merlin jones,6.2,768.0,both
+360,5298,The Monkey's Uncle,tt0059462,movie,The Monkey's Uncle,The Monkey's Uncle,1965,91,"Comedy,Family,Sci-Fi",the monkeys uncle,5.9,896.0,both
+361,5302,The Moon-Spinners,tt0058371,movie,The Moon-Spinners,The Moon-Spinners,1964,118,"Adventure,Family,Mystery",the moonspinners,6.6,2607.0,both
+362,5303,The Muppet Christmas Carol,tt0104940,movie,The Muppet Christmas Carol,The Muppet Christmas Carol,1992,85,"Comedy,Drama,Family",the muppet christmas carol,7.7,57288.0,both
+363,5315,The Muppets,tt1204342,movie,The Muppets,The Muppets,2011,120,"Adventure,Comedy,Family",the muppets,7.1,91355.0,both
+364,5354,The North Avenue Irregulars,tt0079639,movie,The North Avenue Irregulars,The North Avenue Irregulars,1979,100,"Action,Comedy,Crime",the north avenue irregulars,6.7,1223.0,both
+365,5356,The Nutcracker and the Four Realms,tt5523010,movie,The Nutcracker and the Four Realms,The Nutcracker and the Four Realms,2018,99,"Adventure,Family,Fantasy",the nutcracker and the four realms,5.5,32856.0,both
+366,5360,The Odd Life of Timothy Green,tt1462769,movie,The Odd Life of Timothy Green,The Odd Life of Timothy Green,2012,105,"Comedy,Drama,Family",the odd life of timothy green,6.6,46586.0,both
+367,5365,"The One and Only, Genuine, Original Family Band",tt0063389,movie,"The One and Only, Genuine, Original Family Band","The One and Only, Genuine, Original Family Band",1968,110,"Comedy,Drama,Family",the one and only genuine original family band,6.3,919.0,both
+368,5366,The Other Side of Heaven,tt0250371,movie,The Other Side of Heaven,The Other Side of Heaven,2001,113,"Adventure,Biography,Drama",the other side of heaven,6.3,4383.0,both
+369,5367,The Pacifier,tt0395699,movie,The Pacifier,The Pacifier,2005,95,"Action,Comedy,Drama",the pacifier,5.6,92981.0,both
+370,5369,The Parent Trap,tt0055277,movie,The Parent Trap,The Parent Trap,1961,129,"Comedy,Family,Romance",the parent trap,7.2,21100.0,both
+371,5370,The Parent Trap,tt0120783,movie,The Parent Trap,The Parent Trap,1998,128,"Adventure,Comedy,Drama",the parent trap,6.6,132583.0,both
+372,5412,The Peanuts Movie,tt2452042,movie,The Peanuts Movie,The Peanuts Movie,2015,88,"Adventure,Animation,Comedy",the peanuts movie,7.0,45149.0,both
+373,5431,The Pixar Story,tt1059955,movie,The Pixar Story,The Pixar Story,2007,88,Documentary,the pixar story,7.7,6581.0,both
+374,5432,The Princess and the Frog,tt0780521,movie,The Princess and the Frog,The Princess and the Frog,2009,97,"Adventure,Animation,Comedy",the princess and the frog,7.1,138175.0,both
+375,5445,The Princess Diaries,tt0247638,movie,The Princess Diaries,The Princess Diaries,2001,115,"Comedy,Family,Romance",the princess diaries,6.3,139977.0,both
+376,5450,The Princess Diaries 2: Royal Engagement,tt0368933,movie,The Princess Diaries 2: Royal Engagement,The Princess Diaries 2: Royal Engagement,2004,113,"Comedy,Family,Romance",the princess diaries 2 royal engagement,5.8,79196.0,both
+377,5454,The Reluctant Dragon,tt0034091,movie,The Reluctant Dragon,The Reluctant Dragon,1941,74,"Animation,Comedy,Family",the reluctant dragon,6.8,3234.0,both
+378,5465,The Rescuers,tt0076618,movie,The Rescuers,The Rescuers,1977,78,"Adventure,Animation,Comedy",the rescuers,6.9,62709.0,both
+379,5468,The Rescuers,tt1346308,movie,The Rescuers,The Rescuers,2011,94,Documentary,the rescuers,7.4,31.0,both
+380,5481,The Rescuers Down Under,tt0100477,movie,The Rescuers Down Under,The Rescuers Down Under,1990,77,"Adventure,Animation,Comedy",the rescuers down under,6.8,41877.0,both
+381,5486,The Rocketeer,tt0102803,movie,The Rocketeer,The Rocketeer,1991,108,"Action,Adventure,Family",the rocketeer,6.5,56766.0,both
+382,5499,The Rookie,tt0265662,movie,The Rookie,The Rookie,2002,127,"Drama,Family,Sport",the rookie,6.9,34372.0,both
+383,5530,The Santa Clause,tt0111070,movie,The Santa Clause,The Santa Clause,1994,97,"Comedy,Drama,Family",the santa clause,6.5,113293.0,both
+384,5539,The Santa Clause 2,tt0304669,movie,The Santa Clause 2,The Santa Clause 2,2002,104,"Comedy,Family,Fantasy",the santa clause 2,5.7,56302.0,both
+385,5541,The Santa Clause 3: The Escape Clause,tt0452681,movie,The Santa Clause 3: The Escape Clause,The Santa Clause 3: The Escape Clause,2006,97,"Adventure,Comedy,Family",the santa clause 3 the escape clause,4.8,36953.0,both
+386,5546,The Secret of The Magic Gourd,tt0496386,movie,The Secret of the Magic Gourd,Bao hu lu de mi mi,2007,84,"Drama,Family",the secret of the magic gourd,5.1,707.0,both
+388,5548,The Shaggy D.A.,tt0075200,movie,The Shaggy D.A.,The Shaggy D.A.,1976,91,"Comedy,Family,Fantasy",the shaggy da,5.8,2996.0,both
+389,5550,The Shaggy Dog,tt0053271,movie,The Shaggy Dog,The Shaggy Dog,1959,104,"Comedy,Family,Fantasy",the shaggy dog,6.5,4974.0,both
+390,5552,The Shaggy Dog,tt0393735,movie,The Shaggy Dog,The Shaggy Dog,2006,98,"Comedy,Family,Fantasy",the shaggy dog,4.4,19073.0,both
+391,5556,The Sign of Zorro,tt0054307,movie,The Sign of Zorro,The Sign of Zorro,1958,91,"Adventure,Drama,Family",the sign of zorro,7.0,1027.0,both
+392,5567,The Sorcerer's Apprentice,tt0963966,movie,The Sorcerer's Apprentice,The Sorcerer's Apprentice,2010,109,"Action,Adventure,Family",the sorcerers apprentice,6.1,159913.0,both
+393,5585,The Story of Robin Hood and His Merrie Men,tt0045197,movie,The Story of Robin Hood and His Merrie Men,The Story of Robin Hood and His Merrie Men,1952,84,"Action,Adventure,Family",the story of robin hood and his merrie men,6.6,1890.0,both
+394,5586,The Straight Story,tt0166896,movie,The Straight Story,The Straight Story,1999,112,"Biography,Drama",the straight story,8.0,88804.0,both
+395,5589,The Strongest Man in the World,tt0073760,movie,The Strongest Man in the World,The Strongest Man in the World,1975,92,"Comedy,Family,Sci-Fi",the strongest man in the world,5.9,3241.0,both
+396,5595,The Sword and the Rose,tt0046387,movie,The Sword and the Rose,The Sword and the Rose,1953,92,"Adventure,Drama,Family",the sword and the rose,6.3,867.0,both
+397,5596,The Sword and the Rose,tt1686635,movie,The Sword and the Rose,A Espada e a Rosa,2010,142,"Adventure,Drama,Fantasy",the sword and the rose,5.6,93.0,both
+398,5597,The Sword in the Stone,tt0057546,movie,The Sword in the Stone,The Sword in the Stone,1963,79,"Adventure,Animation,Comedy",the sword in the stone,7.2,95874.0,both
+400,5604,The Three Caballeros,tt0038166,movie,The Three Caballeros,The Three Caballeros,1944,71,"Animation,Comedy,Family",the three caballeros,6.4,13787.0,both
+401,5608,The Three Lives Of Thomasina,tt0057579,movie,The Three Lives of Thomasina,The Three Lives of Thomasina,1963,97,"Drama,Family",the three lives of thomasina,7.3,2327.0,both
+402,5620,The Three Musketeers,tt0108333,movie,The Three Musketeers,The Three Musketeers,1993,105,"Action,Adventure,Comedy",the three musketeers,6.4,54184.0,both
+403,5678,The Tigger Movie,tt0220099,movie,The Tigger Movie,The Tigger Movie,2000,77,"Adventure,Animation,Comedy",the tigger movie,6.3,18670.0,both
+404,5680,The Ugly Dachshund,tt0061135,movie,The Ugly Dachshund,The Ugly Dachshund,1966,93,"Comedy,Family",the ugly dachshund,6.6,4084.0,both
+405,5681,The Vanishing Prairie,tt0047642,movie,The Vanishing Prairie,The Vanishing Prairie,1954,71,"Documentary,Family",the vanishing prairie,7.4,616.0,both
+406,5683,The Watcher in the Woods,tt0081738,movie,The Watcher in the Woods,The Watcher in the Woods,1980,84,"Family,Horror,Mystery",the watcher in the woods,6.1,6227.0,both
+407,5687,The Wild,tt0405469,movie,The Wild,The Wild,2006,95,"Adventure,Animation,Comedy",the wild,5.2,25590.0,both
+408,5700,The Wild Country,tt0067985,movie,The Wild Country,The Wild Country,1970,100,"Action,Adventure,Comedy",the wild country,6.3,304.0,both
+409,5701,The World's Greatest Athlete,tt0070928,movie,The World's Greatest Athlete,The World's Greatest Athlete,1973,93,"Comedy,Family,Romance",the worlds greatest athlete,5.7,1592.0,both
+410,5702,The Young Black Stallion,tt0318850,movie,The Young Black Stallion,The Young Black Stallion,2003,50,"Adventure,Drama,Family",the young black stallion,5.4,1167.0,both
+411,5703,Third Man on the Mountain,tt0053352,movie,Third Man on the Mountain,Third Man on the Mountain,1959,107,"Adventure,Drama,Family",third man on the mountain,7.1,1034.0,both
+412,5707,Thor Ragnarok,tt3501632,movie,Thor: Ragnarok,Thor: Ragnarok,2017,130,"Action,Adventure,Comedy",thor ragnarok,7.9,686708.0,both
+413,5720,Those Calloways,tt0059796,movie,Those Calloways,Those Calloways,1965,131,"Drama,Family",those calloways,6.6,703.0,both
+414,5722,Toby Tyler,tt0054390,movie,Toby Tyler or Ten Weeks with a Circus,Toby Tyler or Ten Weeks with a Circus,1960,96,"Drama,Family",toby tyler or ten weeks with a circus,6.9,973.0,both
+415,5723,Tom and Huck,tt0112302,movie,Tom and Huck,Tom and Huck,1995,97,"Adventure,Comedy,Drama",tom and huck,5.5,10725.0,both
+416,5731,Tomorrowland,tt1964418,movie,Tomorrowland,Tomorrowland,2015,130,"Action,Adventure,Family",tomorrowland,6.4,180118.0,both
+417,5745,Tonka,tt0052300,movie,Tonka,Tonka,1958,97,"Adventure,Drama,Family",tonka,6.3,453.0,both
+418,5768,Toy Story,tt0114709,movie,Toy Story,Toy Story,1995,81,"Adventure,Animation,Comedy",toy story,8.3,955617.0,both
+419,5799,Toy Story 2,tt0120363,movie,Toy Story 2,Toy Story 2,1999,92,"Adventure,Animation,Comedy",toy story 2,7.9,562201.0,both
+420,5809,Toy Story 3,tt0435761,movie,Toy Story 3,Toy Story 3,2010,103,"Adventure,Animation,Comedy",toy story 3,8.3,807509.0,both
+421,5841,Toy Story 4,tt1979376,movie,Toy Story 4,Toy Story 4,2019,100,"Adventure,Animation,Comedy",toy story 4,7.7,235058.0,both
+422,5843,Trail of the Panda,tt1247700,movie,Trail of the Panda,Xiong mao hui jia lu,2009,87,"Adventure,Family",trail of the panda,6.3,206.0,both
+423,5849,Treasure Island,tt0043067,movie,Treasure Island,Treasure Island,1950,96,"Adventure,Family",treasure island,6.9,8160.0,both
+424,5926,Treasure Of Matecumbe,tt0075347,movie,Treasure of Matecumbe,Treasure of Matecumbe,1976,117,"Adventure,Family,Western",treasure of matecumbe,6.1,778.0,both
+425,5928,Treasure Planet,tt0133240,movie,Treasure Planet,Treasure Planet,2002,95,"Adventure,Animation,Family",treasure planet,7.2,113595.0,both
+426,5936,Trenchcoat,tt0086476,movie,Trenchcoat,Trenchcoat,1983,91,"Comedy,Mystery,Thriller",trenchcoat,5.3,502.0,both
+427,5939,Tron,tt0084827,movie,TRON,TRON,1982,96,"Action,Adventure,Sci-Fi",tron,6.8,119228.0,both
+428,5954,TRON: Legacy,tt1104001,movie,TRON: Legacy,Tron,2010,125,"Action,Adventure,Sci-Fi",tron legacy,6.8,329133.0,both
+429,5962,Tuck Everlasting,tt0081664,movie,Tuck Everlasting,Tuck Everlasting,1981,90,"Drama,Family,Fantasy",tuck everlasting,6.5,361.0,both
+430,5963,Tuck Everlasting,tt0283084,movie,Tuck Everlasting,Tuck Everlasting,2002,90,"Drama,Family,Fantasy",tuck everlasting,6.6,23663.0,both
+431,5968,Turning Red,tt8097030,movie,Turning Red,Turning Red,2022,100,"Adventure,Animation,Comedy",turning red,7.1,42991.0,both
+432,5980,Underdog,tt0467110,movie,Underdog,Underdog,2007,100,"Action,Adventure,Comedy",underdog,4.8,21429.0,both
+433,6007,Unidentified Flying Oddball,tt0080062,movie,Unidentified Flying Oddball,The Spaceman and King Arthur,1979,93,"Adventure,Comedy,Family",unidentified flying oddball,5.1,1168.0,both
+434,6009,Up,tt0075376,movie,Up!,Up!,1976,80,"Comedy,Mystery,Thriller",up,5.8,2932.0,both
+435,6013,Up,tt1049413,movie,Up,Up,2009,96,"Adventure,Animation,Comedy",up,8.3,1005876.0,both
+436,6044,Valiant,tt0361089,movie,Valiant,Valiant,2005,76,"Adventure,Animation,Comedy",valiant,5.5,22570.0,both
+437,6057,Waking Sleeping Beauty,tt1159961,movie,Waking Sleeping Beauty,Waking Sleeping Beauty,2009,86,"Documentary,Drama,History",waking sleeping beauty,7.6,2994.0,both
+438,6059,Wall-E,tt0910970,movie,WALL·E,WALL·E,2008,98,"Adventure,Animation,Family",walle,8.4,1075052.0,both
+439,6070,Walt & El Grupo,tt1223150,movie,Walt & El Grupo,Walt & El Grupo,2008,106,Documentary,walt  el grupo,6.4,415.0,both
+440,6074,"Westward Ho, The Wagons!",tt0049945,movie,"Westward Ho, the Wagons!","Westward Ho, the Wagons!",1956,90,"Family,Western",westward ho the wagons,5.8,346.0,both
+441,6075,Where The Red Fern Grows,tt0072402,movie,Where the Red Fern Grows,Where the Red Fern Grows,1974,97,"Drama,Family",where the red fern grows,6.9,3345.0,both
+442,6076,Where The Red Fern Grows,tt0192788,movie,Where the Red Fern Grows,Where the Red Fern Grows,2003,86,"Drama,Family",where the red fern grows,6.4,1224.0,both
+443,6078,Whispers: An Elephant's Tale,tt0185007,movie,Whispers: An Elephant's Tale,Whispers: An Elephant's Tale,2000,72,"Adventure,Family",whispers an elephants tale,5.0,357.0,both
+444,6082,White Fang,tt0103247,movie,White Fang,White Fang,1991,107,"Adventure,Drama",white fang,6.7,20731.0,both
+445,6091,White Fang 2: Myth of the White Wolf,tt0111701,movie,White Fang 2: Myth of the White Wolf,White Fang 2: Myth of the White Wolf,1994,106,"Adventure,Family",white fang 2 myth of the white wolf,5.4,2308.0,both
+446,6092,White Wilderness,tt0052389,movie,White Wilderness,White Wilderness,1958,72,"Documentary,Family",white wilderness,5.4,443.0,both
+447,6094,Wild Hearts Can't Be Broken,tt0103262,movie,Wild Hearts Can't Be Broken,Wild Hearts Can't Be Broken,1991,88,"Drama,Family,Romance",wild hearts cant be broken,7.2,5258.0,both
+448,6095,Wings of Life,tt1222816,movie,Disneynature: Wings of Life,Pollen,2011,81,"Documentary,Family,News",disneynature wings of life,7.4,605.0,both
+449,6096,Winnie the Pooh (2011),tt1449283,movie,Winnie the Pooh,Winnie the Pooh,2011,63,"Adventure,Animation,Comedy",winnie the pooh,7.2,24316.0,both
+450,6097,Winnie the Pooh: A Very Merry Pooh Year,tt0324572,movie,Winnie the Pooh: A Very Merry Pooh Year,Winnie the Pooh: A Very Merry Pooh Year,2002,65,"Animation,Comedy,Drama",winnie the pooh a very merry pooh year,6.6,2491.0,both
+451,6106,Wreck-It Ralph,tt1772341,movie,Wreck-It Ralph,Wreck-It Ralph,2012,101,"Adventure,Animation,Comedy",wreckit ralph,7.7,408321.0,both
+452,6115,Yellowstone Cubs,tt0206446,movie,Yellowstone Cubs,Yellowstone Cubs,1963,48,"Adventure,Family",yellowstone cubs,6.9,286.0,both
+453,6117,Zokkomon,tt1605790,movie,Zokkomon,Zokkomon,2011,109,"Action,Adventure,Family",zokkomon,4.1,402.0,both
+454,6124,Zootopia,tt2948356,movie,Zootopia,Zootopia,2016,108,"Adventure,Animation,Comedy",zootopia,8.0,476716.0,both
