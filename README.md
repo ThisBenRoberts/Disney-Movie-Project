@@ -2,7 +2,7 @@
 
 ---
 
-Using a history of film data, as well as performance data from associated directors and writers, can we estimate how well a Disney movie will perform at the box or the film's rating on IMDB?
+Using a history of film data, as well as performance data from associated directors and writers, can we estimate how well a Disney movie will perform at the box office or the film's rating on IMDB?
 
 ### Author: 
 
